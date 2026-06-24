@@ -68,6 +68,6 @@ The project uses the Telco Customer Churn dataset containing customer demographi
 - Advanced customer segmentation techniques.
 
 ## Author
-**Meeghal Merin**
+**Meeghal Merin Renjith**
 
 Power BI Dashboard Project – Customer Churn Analysis
